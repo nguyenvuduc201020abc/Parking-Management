@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/My project/Vehicle Management/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1985" />
+        <entry key="..\:/My project/Vehicle Management/app/src/main/res/drawable/background_bill.xml" value="0.136" />
+        <entry key="..\:/My project/Vehicle Management/app/src/main/res/drawable/bg_pay_button.xml" value="0.1" />
+        <entry key="..\:/My project/Vehicle Management/app/src/main/res/drawable/ic_background_item_view.xml" value="0.1085" />
+        <entry key="..\:/My project/Vehicle Management/app/src/main/res/drawable/ic_background_login.xml" value="0.1985" />
+        <entry key="..\:/My project/Vehicle Management/app/src/main/res/drawable/ic_background_main.xml" value="0.171" />
+        <entry key="..\:/My project/Vehicle Management/app/src/main/res/drawable/ic_icon_parking.xml" value="0.1985" />
+        <entry key="..\:/My project/Vehicle Management/app/src/main/res/drawable/ic_menu_option_icon.xml" value="0.1805" />
+        <entry key="..\:/My project/Vehicle Management/app/src/main/res/drawable/ic_rectangle.xml" value="0.1985" />
+        <entry key="..\:/My project/Vehicle Management/app/src/main/res/drawable/ic_xe11.xml" value="0.1985" />
+        <entry key="..\:/My project/Vehicle Management/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/My project/Vehicle Management/app/src/main/res/layout/activity_main.xml" value="0.136" />
+        <entry key="..\:/My project/Vehicle Management/app/src/main/res/layout/activity_splash.xml" value="0.264" />
+        <entry key="..\:/My project/Vehicle Management/app/src/main/res/layout/area_item.xml" value="0.1" />
+        <entry key="..\:/My project/Vehicle Management/app/src/main/res/layout/bill_item.xml" value="0.264" />
+        <entry key="..\:/My project/Vehicle Management/app/src/main/res/layout/fragment_all_bill.xml" value="0.264" />
+        <entry key="..\:/My project/Vehicle Management/app/src/main/res/layout/fragment_bill.xml" value="0.152" />
+        <entry key="..\:/My project/Vehicle Management/app/src/main/res/layout/fragment_detail_area.xml" value="0.235" />
+        <entry key="..\:/My project/Vehicle Management/app/src/main/res/layout/fragment_header_nav.xml" value="0.2" />
+        <entry key="..\:/My project/Vehicle Management/app/src/main/res/layout/fragment_income.xml" value="0.2" />
+        <entry key="..\:/My project/Vehicle Management/app/src/main/res/layout/fragment_main.xml" value="0.16770833333333332" />
+        <entry key="..\:/My project/Vehicle Management/app/src/main/res/layout/fragment_map.xml" value="0.152" />
+        <entry key="..\:/My project/Vehicle Management/app/src/main/res/layout/fragment_parking.xml" value="0.152" />
+        <entry key="..\:/My project/Vehicle Management/app/src/main/res/layout/fragment_vehicle.xml" value="0.13645833333333332" />
+        <entry key="..\:/My project/Vehicle Management/app/src/main/res/layout/grid_item.xml" value="0.136" />
+        <entry key="..\:/My project/Vehicle Management/app/src/main/res/layout/navigation_menu.xml" value="0.12135416666666667" />
+        <entry key="..\:/My project/Vehicle Management/app/src/main/res/layout/vehicle_item.xml" value="0.2" />
+        <entry key="..\:/My project/Vehicle Management/app/src/main/res/menu/menu_navigation.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.152" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

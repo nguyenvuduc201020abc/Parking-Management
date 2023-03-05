@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/main_nav"
+            android:title="Home" />
+        <item
+            android:id="@+id/check_out_nav"
+            android:title="Check out" />
+        <item
+            android:id="@+id/bill_nav"
+            android:title="Income" />
+
+        <item
+            android:id="@+id/bill_user_nav"
+            android:title="All bill" />
+
+        <item
+            android:id="@+id/vehicle_info_nav"
+            android:title="Vehicle Infomation"/>
+
+        <item
+            android:id="@+id/create_map_nav"
+            android:title="Create map"/>
+
+        <item
+            android:id="@+id/log_out_nav"
+            android:title="Log out" />
+
+    </group>
+
+</menu>
